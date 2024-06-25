@@ -340,7 +340,7 @@ http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.61:8104
 http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV9HD" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9HD 纪录
 http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.62:8112
-#HDEXTINF:-1 tvg-name="CCTV10HD" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10HD 科教
+#EXTINF:-1 tvg-name="CCTV10HD" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10HD 科教
 http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.63:8116
 #EXTINF:-1 tvg-name="CCTV11HD" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11HD 戏曲
 http://noeypszbgd.cn.zzmd.fun:8888/rtp/239.3.1.152:8120
